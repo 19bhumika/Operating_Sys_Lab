@@ -1,0 +1,16 @@
+# Week 3: Demonstration of wait() System Call
+
+## Aim
+To study process synchronization using the wait() system call.
+
+## Problem Statement
+Write a C program using fork() and wait() to demonstrate
+how the parent process waits for its child process to
+terminate before continuing execution.
+
+## Concepts Used
+- fork()
+- wait()
+- Process synchronization
+- Process termination
+- Exit status
